@@ -1,0 +1,2 @@
+/Users/mounamani/Desktop/mypsy/android/app/.cxx/RelWithDebInfo/2i4c5p3y/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mounamani/Desktop/mypsy/android/app/.cxx/RelWithDebInfo/2i4c5p3y/arm64-v8a/CMakeFiles/rebuild_cache.dir
